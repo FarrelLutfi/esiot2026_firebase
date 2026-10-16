@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "387284644545",
+    "firebase_url": "https://esiot2026-3fe2f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esiot2026-3fe2f",
+    "storage_bucket": "esiot2026-3fe2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387284644545:android:83489a71319e2f31201a40",
+        "android_client_info": {
+          "package_name": "com.example.esiot2026_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClw_3DCucl6b4wTshyn4kCQgFNGmNU288"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387284644545:android:f6c0411a76c8dc31201a40",
+        "android_client_info": {
+          "package_name": "com.example.firebaseesp32android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClw_3DCucl6b4wTshyn4kCQgFNGmNU288"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
